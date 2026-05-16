@@ -24,13 +24,13 @@ Equally comfortable owning a product end-to-end as a solo engineer, leading a sm
 **🏟️ Senior Software Engineer — [Fanatics](https://www.fanatics.com)** · _Jan 2025 → Present_
 Building and optimizing scalable, high-quality solutions that improve how millions of fans interact with one of the world's largest e-commerce platforms.
 
-**🧩 Senior Frontend Developer — Include Software** · _Mar 2022 → Feb 2025 · 3 yrs_
+**🧩 Senior Frontend Developer — [Include Software](https://www.include.com/)** · _Mar 2022 → Feb 2025 · 3 yrs_
 Built a large SAAS application from scratch using React, TypeScript, Clean Architecture, DDD, a custom design system, and a micro-frontend setup integrated with Auth0.
 
-**🚀 Software Development Engineer — Startec** · _Sep 2021 → Mar 2022_
+**🚀 Software Development Engineer — [Startec](https://www.linkedin.com/company/startec-jobs/?originalSubdomain=br)** · _Sep 2021 → Mar 2022_
 Shipped new features at production-grade quality, designed a scalable design system, and kept production stable on a tech recruiting platform for startups.
 
-**🎓 Software Engineer Technical Lead — Faculdade IBRA** · _Sep 2017 → Sep 2021 · 4 yrs_
+**🎓 Software Engineer Technical Lead — [Faculdade IBRA](https://www.ibra.edu.br/)** · _Sep 2017 → Sep 2021 · 4 yrs_
 Joined employee #8 as a developer, grew into Head of Development. Led a 4-person team and shipped an ERP, an institutional site, and a CRM. The company scaled to 160 people and 50k online students during my tenure.
 
 **🧠 Founder / Software Engineer — Taskflow (Modiv CRM)** · _Feb 2019 → Jan 2021_
