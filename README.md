@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Vinícius</h1>
-<h3 align="center">Software Engineer from Brazil — building tools that help people learn and stay organized</h3>
+<h3 align="center">Software Engineer from Brazil · 10+ years shipping products from solo side projects to global e-commerce platforms</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gustavovinife&label=Profile%20views&color=0e75b6&style=flat" alt="gustavovinife" />
@@ -13,9 +13,31 @@
 **[flashsnap.com.br](https://flashsnap.com.br)** — a desktop flashcard app that lives in your workflow.
 Get smart notifications, track your progress, and master languages or any topic with science-backed spaced repetition.
 
-### 💼 Day job
+### 👨‍💻 About me
 
-Software Engineer at **Fanatics**, working on large-scale React / Node.js systems with TypeScript, Clean Architecture, and a strong focus on developer experience.
+I've spent the last decade building software across very different scales — from being the first developer at a small education startup that grew into a 160-person company with 50k+ students, to maintaining a SAAS CRM with 50k+ contacts (sold in 2022), to now working on the user experience of one of the largest e-commerce platforms in the world.
+
+Equally comfortable owning a product end-to-end as a solo engineer, leading a small team as a tech lead, or operating inside a large engineering organization.
+
+### 💼 Experience
+
+**🏟️ Senior Software Engineer — [Fanatics](https://www.fanatics.com)** · _Jan 2025 → Present_
+Building and optimizing scalable, high-quality solutions that improve how millions of fans interact with one of the world's largest e-commerce platforms.
+
+**🧩 Senior Frontend Developer — Include Software** · _Mar 2022 → Feb 2025 · 3 yrs_
+Built a large SAAS application from scratch using React, TypeScript, Clean Architecture, DDD, a custom design system, and a micro-frontend setup integrated with Auth0.
+
+**🚀 Software Development Engineer — Startec** · _Sep 2021 → Mar 2022_
+Shipped new features at production-grade quality, designed a scalable design system, and kept production stable on a tech recruiting platform for startups.
+
+**🎓 Software Engineer Technical Lead — Faculdade IBRA** · _Sep 2017 → Sep 2021 · 4 yrs_
+Joined employee #8 as a developer, grew into Head of Development. Led a 4-person team and shipped an ERP, an institutional site, and a CRM. The company scaled to 160 people and 50k online students during my tenure.
+
+**🧠 Founder / Software Engineer — Taskflow (Modiv CRM)** · _Feb 2019 → Jan 2021_
+Built Modiv CRM solo on the ReactJS/Node.js stack — a SAAS that reached 50+ paying clients and 50k+ contacts on AWS. Sold to Leadline in 2022.
+
+**🎨 Full-stack Developer — Way Design** · _Dec 2016 → Nov 2017_
+First professional gig — built and shipped React/SAAS projects for small business clients.
 
 ### 🛠️ Stack
 
